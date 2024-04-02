@@ -4,18 +4,18 @@
 <h1 align="center" style="font-weight: bold;">Projets personnels 💻</h1>
 
 ![javascript][JAVASCRIPT__BADGE]
-![svelte][SVELTE__JS]
+![php][PHP]
 
 <p align="center">
-    <img src="https://github.com/HigorZicaDev/profmargaux-site/blob/main/static/img1-site.png" alt="Image Example" width="400px">
+    <img src="https://github.com/HigorZicaDev/profmargaux-site/blob/main/assets/images/img1-site.png" alt="Image Example" width="400px">
 </p>
 
 <p align="center">
-    <img src="https://github.com/HigorZicaDev/profmargaux-site/blob/main/static/img2-site.png" alt="Image Example" width="400px">
+    <img src="https://github.com/HigorZicaDev/profmargaux-site/blob/main/assets/images/img2-site.png" alt="Image Example" width="400px">
 </p>
 
 <p align="center">
-    <img src="https://github.com/HigorZicaDev/profmargaux-site/blob/main/static/img3-site.png" alt="Image Example" width="400px">
+    <img src="https://github.com/HigorZicaDev/profmargaux-site/blob/main/assets/images/img3-site.png" alt="Image Example" width="400px">
 </p>
 
 <h2 id="started">📌 About</h2>
