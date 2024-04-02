@@ -1,7 +1,7 @@
 [JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
 [PHP]: https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white
 
-<h1 align="center" style="font-weight: bold;">Projets personnels 💻</h1>
+<h1 align="center" style="font-weight: bold;">Site Institutionnel + Système</h1>
 
 ![javascript][JAVASCRIPT__BADGE]
 ![php][PHP]
